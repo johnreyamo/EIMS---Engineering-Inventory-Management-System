@@ -26,6 +26,9 @@ This project is built using an **ESP32-S3** (or standard ESP32) with the followi
 | **MFRC522 RST** | GPIO 9 |
 | **MFRC522 CS** | GPIO 10 |
 | **NeoPixel LED** | GPIO 38 |
+| **RGB RED** | GPIO 17 |
+| **RGB BLUE** | GPIO 15 |
+| **RGB GREEN** | GPIO 7 |
 | **Buzzer** | GPIO 6 |
 | **Admin/User Switch** | GPIO 4 (Uses internal Pull-Up) |
 
