@@ -68,3 +68,7 @@ The web dashboard includes a settings menu that allows the administrator to:
 *   Toggle physical buzzer feedback on or off.
 *   Download full database backups or restore the system from a previous JSON backup file.
 *   Purge old history logs to free up flash storage or perform a complete Factory Reset.S
+
+## Note!!
+* This inventory system is not finish.
+* When making the code name main.py to run it by just using a charger, the devices can't access the webserver.
